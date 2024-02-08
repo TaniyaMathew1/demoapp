@@ -1,0 +1,4 @@
+a=22
+b=12
+mul=a*b
+print(mul)
